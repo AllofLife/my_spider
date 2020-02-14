@@ -1,4 +1,4 @@
-**爬虫记录** ![haofenshu](image\haofenshu.gif)
+**爬虫记录** ![haofenshu](image/haofenshu.gif)
 
 **网站 ：**
 
